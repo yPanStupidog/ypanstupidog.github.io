@@ -8,9 +8,9 @@
 # Site Settings
 title                    : "Yi Pan (潘逸)"
 description              : "Computer Science Ph.D. student at UGA researching quantum machine learning, quantum AI, quantum error correction, quantum noise characterization, and efficient quantum computing."
-repository               : "yPanStupidog/yPanStupidog0.github.io"
+repository               : "yPanStupidog/ypanstupidog.github.io"
 url                      : "https://ypanstupidog.github.io"
-baseurl                  : "/yPanStupidog0.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
