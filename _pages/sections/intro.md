@@ -1,1 +1,5 @@
-My research interest includes brain-inspired AI, neuromorphic computing, and AGI. I have published 10+ papers  <a href='https://scholar.google.com/citations?user=jENRqN8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FyPanStupidog%2FyPanStupidog.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+I am **Yi Pan (潘逸)**, a Computer Science Ph.D. student at the **University of Georgia**, advised by [Prof. Tianming Liu](https://www.cs.uga.edu/directory/people/tianming-liu).
+
+My research lies at the intersection of **quantum computing and artificial intelligence**, spanning **quantum machine learning, hybrid quantum–classical models, quantum error correction, and quantum noise characterization**. I also work on **efficient quantum computing**, including GPU-accelerated neural decoding.
+
+My broader experience includes foundation-model research, distributed training, and building generative AI products.

@@ -1,16 +1,27 @@
+<span class="anchor" id="education"></span>
 
-# 📖 Educations
-- *2024.08 - Continued*, Ph.D., The University of Georgia, Athens, USA.
-- *2020.09 - 2024.06*, Bachelor, University of Electronic Science and Technology of China & University of Glasgow, Chengdu, China.
-- *2017.09 - 2020.06*, Shishi High School, Chengdu, China.
-- *2014.09 - 2017.06*, No. 7 Yucai Middle School, Chengdu, China.
+# 📖 Education
 
-<!-- # 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
+- **2024–2029 (expected):** Ph.D. in Computer Science, **University of Georgia**, Athens, USA. GPA: 4.00/4.00.
+- **2020–2024:** B.Eng. in Electronics & Electrical Engineering, **University of Glasgow**, UK. First Class Honours.
+- **2020–2024:** B.Eng. in Electronic Information Engineering, **UESTC (Glasgow College)**, Chengdu, China.
 
-<!-- # 💻 Internships
-- *2024.09 - Now*, Mayo Clinic, Arizona. -->
+<span class="anchor" id="experience"></span>
 
+# 💻 Experience
+
+- **GyriQAI, Inc. / [EZCollegeApp](https://ezcollegeapp.com/)** — Co-Founder; AI Engineering Intern, May–July 2026. Built generative AI features with FastAPI and React/TypeScript for profile autofill, conversational assistance, and essay editing. Coordinated three team members and designed AI-assisted development and review workflows. The platform has **1,000+ registered users**.
+
+<span class="anchor" id="awards"></span>
+
+# 🎖 Honors and Awards
+
+- **2025:** NSF-supported Student Travel Award, AAAI FSS25 (QIML).
+- **2024:** Outstanding Graduate, UESTC (Top 10%).
+- **2020–2021 and 2021–2022:** First Prize Scholarships for Academic Excellence, UESTC (Top 8%).
+
+<span class="anchor" id="service"></span>
+
+# 👔 Academic Service
+
+Reviewer: ACM Transactions on Quantum Computing; IEEE TPAMI; IEEE TAI; ICLR; ICML; NeurIPS.

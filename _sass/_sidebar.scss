@@ -95,6 +95,9 @@
     max-width: 175px;
     min-width: 75px;
     border-radius: 50%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: 50% 26%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -266,5 +269,25 @@
   }
   @include breakpoint($large) {
     display: none;
+  }
+}
+/* Keep the original circular portrait while framing the new full-length photo. */
+div.author__avatar {
+  width: 75px;
+  height: 75px;
+  overflow: hidden;
+  border-radius: 50%;
+  flex-shrink: 0;
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 26%;
+    transform: scale(1.8);
+    transform-origin: 50% 30%;
+  }
+  @include breakpoint($large) {
+    width: 175px;
+    height: 175px;
   }
 }

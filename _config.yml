@@ -7,8 +7,10 @@
 
 # Site Settings
 title                    : "Yi Pan (潘逸)"
-description              : "Ph.D. student @ School of Computing, UGA. Supervised by Distinguished Professor Dr. Tianming Liu. Focusing on brain-inspired AI, neuromorphic computing, and AGI."
-repository               : "yPanStupidog/yPanStupidog.github.io"
+description              : "Computer Science Ph.D. student at UGA researching quantum machine learning, quantum AI, quantum error correction, quantum noise characterization, and efficient quantum computing."
+repository               : "yPanStupidog/yPanStupidog0.github.io"
+url                      : "https://ypanstupidog.github.io"
+baseurl                  : "/yPanStupidog0.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yi Pan"
-  avatar           : "images/ProfilePhoto.png"
+  avatar           : "images/YiPan-portrait.jpg"
   bio              : "The University of Georgia, Athens"
   location         : "Athens, GA 30602"
   employer         :
