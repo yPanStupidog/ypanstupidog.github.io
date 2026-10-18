@@ -16,6 +16,7 @@
 
 # 🎖 Honors and Awards
 
+- **2026:** Top Reviewer, NeurIPS.
 - **2025:** NSF-supported Student Travel Award, AAAI FSS25 (QIML).
 - **2024:** Outstanding Graduate, UESTC (Top 10%).
 - **2020–2021 and 2021–2022:** First Prize Scholarships for Academic Excellence, UESTC (Top 8%).

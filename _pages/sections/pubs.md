@@ -32,5 +32,5 @@ Full publication list can be found @ [Google Scholar](https://scholar.google.com
 
 ## Preprints & Manuscripts
 
-- **Pan, Y.**, et al. **[Efficient and identifiable noise models for symmetry-preserving quantum circuits](https://doi.org/10.21203/rs.3.rs-9740811/v2)**. Submitted to *npj Quantum Information*, 2026.
-- **Pan, Y.**, et al. **[Identifying the Sign of Coherent Over-Rotations with Logarithmically Many Pauli Settings](https://arxiv.org/abs/2607.21663)**. Submitted to *IEEE Transactions on Quantum Engineering*, 2026.
+- **Pan, Y.**, et al. **[Efficient and identifiable noise models for symmetry-preserving quantum circuits](https://doi.org/10.21203/rs.3.rs-9740811/v2)**. 2026.
+- **Pan, Y.**, et al. **[Identifying the Sign of Coherent Over-Rotations with Logarithmically Many Pauli Settings](https://arxiv.org/abs/2607.21663)**. 2026.
